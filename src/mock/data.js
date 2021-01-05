@@ -24,7 +24,7 @@ export const aboutData = {
     'An open source contributor passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions.',
   paragraphThree:
     'Looking to start the career as an entry-level software engineer with a reputed firm driven by technology.',
-  resume: 'https://drive.google.com/file/d/1BEg3ocRnUMMO_a_VHta-6I5nyt5-yi4T/view?usp=sharing', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1ga6TjcEYmaBXuRQXSPeJKjHoMfwbwcWf/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
