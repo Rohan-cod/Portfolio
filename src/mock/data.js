@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: 'Hello, my name is',
   name: 'Rohan Gupta',
-  subtitle: "GSoC 2021 @GA4GH | Google HOF | MTA | Python & iOS Developer | Deep Learning | Open Source",
+  subtitle: "GSoC 2021 @GA4GH | Google HOF | MTA | Python & iOS Developer",
   cta: 'Know more',
 };
 
