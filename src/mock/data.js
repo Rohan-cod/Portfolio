@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: 'Hello, my name is',
   name: 'Rohan Gupta',
-  subtitle: "I'm a Python & IOS Developer",
+  subtitle: "GSoC 2021 @GA4GH | Google HOF | MTA | Python & iOS Developer | Deep Learning | Open Source",
   cta: 'Know more',
 };
 
@@ -24,7 +24,7 @@ export const aboutData = {
     'An open source contributor passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions.',
   paragraphThree:
     'Looking to start the career as an entry-level software engineer with a reputed firm driven by technology.',
-  resume: 'https://drive.google.com/file/d/1lvdToQMQ0UYsxjgmD_9J7Wn7NMyONgGo/view?usp=sharing', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1H4XUpXAfEaGKySwTv1LVE_ul2ieFXFR0/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
